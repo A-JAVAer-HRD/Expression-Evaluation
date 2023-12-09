@@ -1,0 +1,8 @@
+"D:\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/MinGW/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/MinGW/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/MinGW/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" -S D:\CC++\ClionProjects\DataStructDesigon -B D:\CC++\ClionProjects\DataStructDesigon\cmake-build-debug
+    -- src/main.cpp will be compiled to bin/main
+    -- src/test.cpp will be compiled to bin/test
+    -- src/test3.cpp will be compiled to bin/test3
+    -- src/text2.cpp will be compiled to bin/text2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/CC++/ClionProjects/DataStructDesigon/cmake-build-debug

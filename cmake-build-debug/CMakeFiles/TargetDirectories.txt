@@ -1,0 +1,6 @@
+D:/CC++/ClionProjects/DataStructDesigon/cmake-build-debug/CMakeFiles/main.dir
+D:/CC++/ClionProjects/DataStructDesigon/cmake-build-debug/CMakeFiles/test.dir
+D:/CC++/ClionProjects/DataStructDesigon/cmake-build-debug/CMakeFiles/test3.dir
+D:/CC++/ClionProjects/DataStructDesigon/cmake-build-debug/CMakeFiles/text2.dir
+D:/CC++/ClionProjects/DataStructDesigon/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CC++/ClionProjects/DataStructDesigon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
